@@ -1,7 +1,379 @@
 {
     "tatca": [
-        {"Hello":"Hi","hello":"Hi","how are you?":"I'm fine thank you and you :))","How are you?":"I'm fine thank you and you :))","how are you":"I'm fine thank you and you :))","How are you":"I'm fine thank you and you :))","What your name":"I'm AI health counseling support system.","what your name":"I'm AI health counseling support system.","What your name?":"I'm AI health counseling support system.","what your name?":"I'm AI health counseling support system.","What's your name":"I'm AI health counseling support system.","what's your name":"I'm AI health counseling support system.","What's your name?":"I'm AI health counseling support system.","what's your name?":"I'm AI health counseling support system.","What is your name":"I'm AI health counseling support system.","what is your name":"I'm AI health counseling support system.","What is your name?":"I'm AI health counseling support system.","what is your name?":"I'm AI health counseling support system.","How old are you?":"I'm 1 month old","How old are you":"I'm 1 month old","how old are you?":"I'm 1 month old","how old are you":"I'm 1 month old","Thank you Doctor":" You’re welcome","thank you Doctor":" You’re welcome","Thank you doctor":" You’re welcome","thank you doctor":" You’re welcome","Cảm ơn bác sĩ":"Giúp đỡ các bạn là niềm vui của tôi :))","Chào bác sĩ":"Chào bạn, tôi có thể giúp được cho bạn?","chào bác sĩ":"Chào bạn, tôi có thể giúp được cho bạn?","Chao bac si":"Chào bạn, tôi có thể giúp được cho bạn?","chao bac si":"Chào bạn, tôi có thể giúp được cho bạn?","1+1":"2","2+2":"4","2x2":"4","2*2":"4","printf(\"Hello World\");":"Hello World","cout<<\"Hello World\";":"Hello World","Console.Write(\"Hello World\");":"Hello World","Console.WriteLine(\"Hello World\");":"Hello World","console.log(\"Hello World\")":"Hello World","console.log(\"Hello World\");":"Hello World","console.log('Hello World')":"Hello World","console.log('Hello World');":"Hello World","System.out.print(\"Hello World\");":"Hello World","System.out.println(\"Hello World\");":"Hello World"}
+        {
+            "id": 1,
+            "img": "https://animehay.tv/uploads/images/2021/07/vanitas-no-carte-thumbnail-1625249263.jpg",
+            "content": "Vanitas no Carte",
+            "ep": "9/??"
+        },
+        {
+            "id": 2,
+            "img": "https://animehay.tv/uploads/images/2021/07/nghich-thien-chi-ton-thumbnail-1627047631.png",
+            "content": "Nghịch Thiên Chí Tôn",
+            "ep": "18/60"
+        },
+        {
+            "id": 3,
+            "img": "https://animehay.tv/uploads/images/2021/04/linh-kiem-ton-thumbnail-1618197666.png",
+            "content": "Linh Kiếm Tôn",
+            "ep": "205/280"
+        },
+        {
+            "id": 4,
+            "img": "https://animehay.tv/uploads/images/2021/05/vo-thuong-than-de-thumbnail-1621833775.png",
+            "content": "Vô Thượng Thần Đế",
+            "ep": "95/128"
+        },
+        {
+            "id": 5,
+            "img": "https://animehay.tv/uploads/images/2021/08/the-gioi-hoan-my-thumbnail-1629012605.png",
+            "content": "Thế Giới Hoàn Mỹ",
+            "ep": "21/78"
+        },
+        {
+            "id": 6,
+            "img": "https://animehay.tv/uploads/images/2021/04/linh-kiem-ton-thumbnail-1618197666.png",
+            "content": "Linh Kiếm Tôn",
+            "ep": "205/280"
+        },
+        {
+            "id": 7,
+            "img": "https://animehay.tv/uploads/images/2021/07/higurashi-no-naku-koro-ni-sotsu-thumbnail-1625169017.jpg",
+            "content": "Higurashi no Naku Koro ni Sotsu",
+            "ep": "10/15"
+        },
+        {
+            "id": 8,
+            "img": "https://animehay.tv/uploads/images/2021/07/sonny-boy-thumbnail-1626416272.jpg",
+            "content": "Sonny Boy",
+            "ep": "7/??"
+        },
+        {
+            "id": 9,
+            "img": "https://animehay.tv/uploads/images/2021/07/peach-boy-riverside-thumbnail-1625200346.jpg",
+            "content": "Peach Boy Riverside",
+            "ep": "9/??"
+        },
+        {
+            "id": 10,
+            "img": "https://animehay.tv/uploads/images/2021/07/heion-sedai-no-idaten-tachi-thumbnail-1627700450.jpg",
+            "content": "Heion Sedai no Idaten-tachi",
+            "ep": "7/??"
+        },
+        {
+            "id": 11,
+            "img": "https://animehay.tv/uploads/images/2021/07/scarlet-nexus-thumbnail-1626416436.jpg",
+            "content": "Scarlet Nexus",
+            "ep": "9/??"
+        },
+        {
+            "id": 12,
+            "img": "https://animehay.tv/uploads/images/2021/07/mahouka-koukou-no-yuutousei-thumbnail-1625379882.jpg",
+            "content": "Mahouka Koukou no Yuutousei",
+            "ep": "8/??"
+        },
+        {
+            "id": 13,
+            "img": "https://animehay.tv/uploads/images/2021/07/night-head-2041-thumbnail-1627045882.jpg",
+            "content": "Night Head 2041",
+            "ep": "7/??"
+        },
+        {
+            "id": 14,
+            "img": "https://animehay.tv/uploads/images/2021/07/xuan-thu-phong-than-thumbnail-1626138514.jpg",
+            "content": "Xuân Thu Phong Thần",
+            "ep": "13/24"
+        },
+        {
+            "id": 15,
+            "img": "https://animehay.tv/uploads/images/2021/07/tsuki-ga-michibiku-isekai-douchuu-thumbnail-1625712366.jpg",
+            "content": "Tsuki ga Michibiku Isekai Douchuu",
+            "ep": "8/??"
+        },
+        {
+            "id": 16,
+            "img": "https://animehay.tv/uploads/images/2021/07/van-gioi-tien-tung-thumbnail-1625668062.png",
+            "content": "Vạn Giới Tiên Tung",
+            "ep": "196/224"
+        }
 
+
+    ],
+    "muanay": [
+        {
+            "id": 17,
+            "img": "https://animehay.tv/uploads/images/2021/07/vanitas-no-carte-thumbnail-1625249263.jpg",
+            "content": "Vanitas no Carte",
+            "ep": "9/??"
+        },
+        {
+            "id": 18,
+            "img": "https://animehay.tv/uploads/images/2021/07/sonny-boy-thumbnail-1626416272.jpg",
+            "content": "Sonny Boy",
+            "ep": "7/??"
+        },
+        {
+            "id": 19,
+            "img": "https://animehay.tv/uploads/images/2021/07/peach-boy-riverside-thumbnail-1625200346.jpg",
+            "content": "Peach Boy Riverside",
+            "ep": "9/??"
+        },
+        {
+            "id": 20,
+            "img": "https://animehay.tv/uploads/images/2021/07/heion-sedai-no-idaten-tachi-thumbnail-1627700450.jpg",
+            "content": "Heion Sedai no Idaten-tachi",
+            "ep": "7/??"
+        },
+        {
+            "id": 21,
+            "img": "https://animehay.tv/uploads/images/2021/07/scarlet-nexus-thumbnail-1626416436.jpg",
+            "content": "Scarlet Nexus",
+            "ep": "9/??"
+        },
+        {
+            "id": 22,
+            "img": "https://animehay.tv/uploads/images/2021/07/mahouka-koukou-no-yuutousei-thumbnail-1625379882.jpg",
+            "content": "Mahouka Koukou no Yuutousei",
+            "ep": "8/??"
+        },
+        {
+            "id": 23,
+            "img": "https://animehay.tv/uploads/images/2021/07/night-head-2041-thumbnail-1627045882.jpg",
+            "content": "Night Head 2041",
+            "ep": "7/??"
+        },
+        {
+            "id": 24,
+            "img": "https://animehay.tv/uploads/images/2021/07/tsuki-ga-michibiku-isekai-douchuu-thumbnail-1625712366.jpg",
+            "content": "Tsuki ga Michibiku Isekai Douchuu",
+            "ep": "8/??"
+        },
+        {
+            "id": 25,
+            "img": "https://animehay.tv/uploads/images/2021/07/cheat-kusushi-no-slow-life-isekai-ni-tsukurou-drugstore-thumbnail-1625712087.jpg",
+            "content": "Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore",
+            "ep": "8/??"
+        },
+        {
+            "id": 26,
+            "img": "https://animehay.tv/uploads/images/2021/07/kobayashi-san-chi-no-maid-dragon-s-thumbnail-1625702351.jpg",
+            "content": "Kobayashi-san Chi no Maid Dragon S",
+            "ep": "8/??"
+        },
+        {
+            "id": 27,
+            "img": "https://animehay.tv/uploads/images/2021/07/kanojo-mo-kanojo-thumbnail-1625296574.jpg",
+            "content": "Kanojo mo Kanojo",
+            "ep": "8/??"
+        },
+        {
+            "id": 28,
+            "img": "https://animehay.tv/uploads/images/2021/07/deatte-5-byou-de-battle-thumbnail-1626149193.jpg",
+            "content": "Deatte 5-byou de Battle",
+            "ep": "7/??"
+        },
+        {
+            "id": 29,
+            "img": "https://animehay.tv/uploads/images/2021/07/seirei-gensouki-spirit-chronicle-thumbnail-1625544762.jpg",
+            "content": "Seirei Gensouki - Spirit Chronicle",
+            "ep": "8/??"
+        }
+    ],
+    "muatruoc": [
+        {
+            "id": 1,
+            "img": "https://animehay.tv/uploads/images/2021/04/bakuten-thumbnail-1618534401.jpg",
+            "content": "Bakuten!!",
+            "ep": "12/12"
+        },
+        {
+            "id": 2,
+            "img": "https://animehay.tv/uploads/images/2021/04/nomad-megalo-box-2-thumbnail-1617553736.jpg",
+            "content": "Nomad: Megalo Box 2",
+            "ep": "13/13"
+        },
+        {
+            "id": 3,
+            "img": "https://animehay.tv/uploads/images/2021/04/ijiranaide-nagatoro-san-thumbnail-1618103747.jpg",
+            "content": "Ijiranaide, Nagatoro-san",
+            "ep": "12/12"
+        },
+        {
+            "id": 4,
+            "img": "https://animehay.tv/uploads/images/2021/04/slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita-thumbnail-1618067963.jpg",
+            "content": "Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita",
+            "ep": "12/12"
+        },
+        {
+            "id": 5,
+            "img": "https://animehay.tv/uploads/images/2021/06/planet-with-thumbnail-1624681228.png",
+            "content": "Planet With",
+            "ep": "12/12"
+        },
+        {
+            "id": 6,
+            "img": "https://animehay.tv/uploads/images/2021/04/mashiro-no-oto-thumbnail-1619541744.jpg",
+            "content": "Mashiro no Oto",
+            "ep": "12/12"
+        },
+        {
+            "id": 7,
+            "img": "https://animehay.tv/uploads/images/2021/04/subarashiki-kono-sekai-the-animation-thumbnail-1618107074.jpg",
+            "content": "Subarashiki Kono Sekai The Animation",
+            "ep": "12/12"
+        },
+        {
+            "id": 8,
+            "img": "https://animehay.tv/uploads/images/2021/04/zombieland-saga-revenge-thumbnail-1617925949.jpg",
+            "content": "Zombieland Saga: Revenge",
+            "ep": "12/12"
+        },
+        {
+            "id": 9,
+            "img": "https://animehay.tv/uploads/images/2021/01/nanatsu-no-taizai-fundo-no-shinpan-thumbnail.jpg",
+            "content": "Nanatsu no Taizai: Fundo no Shinpan",
+            "ep": "24/24"
+        },
+        {
+            "id": 10,
+            "img": "https://animehay.tv/uploads/images/2021/04/cestvs-the-roman-fighter-thumbnail-1618621027.jpg",
+            "content": "Cestvs: The Roman Fighter",
+            "ep": "11/11"
+        },
+        {
+            "id": 11,
+            "img": "https://animehay.tv/uploads/images/2021/04/kyuukyoku-shinka-shita-full-dive-rpg-ga-genjitsu-yori-mo-kusoge-dattara-thumbnail-1617282639.jpg",
+            "content": "Kyuukyoku Shinka shita Full Dive RPG ga Genjitsu yori mo Kusoge Dattara",
+            "ep": "12/12"
+        },
+        {
+            "id": 12,
+            "img": "https://animehay.tv/uploads/images/2021/04/super-cub-thumbnail-1617818818.jpg",
+            "content": "Super Cub",
+            "ep": "12/12"
+        },
+        {
+            "id": 13,
+            "img": "https://animehay.tv/uploads/images/2021/04/ssss-dynazenon-thumbnail-1618246396.jpg",
+            "content": "SSSS.Dynazenon",
+            "ep": "12/12"
+        },
+        {
+            "id": 14,
+            "img": "https://animehay.tv/uploads/images/2021/04/tensura-nikki-tensei-shitara-slime-datta-ken-thumbnail-1617728911.jpg",
+            "content": "Tensura Nikki: Tensei shitara Slime Datta Ken",
+            "ep": "12/12"
+        },
+        {
+            "id": 15,
+            "img": "https://animehay.tv/uploads/images/2021/04/seijo-no-maryoku-wa-bann%C5%8D-desu-thumbnail-1617730297.jpg",
+            "content": "Seijo no Maryoku wa Bannō Desu",
+            "ep": "12/12"
+        },
+        {
+            "id": 16,
+            "img": "https://animehay.tv/uploads/images/2021/04/dragon-ie-wo-kau-thumbnail-1617617643.jpg",
+            "content": "Dragon, Ie wo Kau.",
+            "ep": "12/12"
+        }
+    ],
+    "bocu": [
+        {
+            "id": 1,
+            "img": "https://animehay.tv/uploads/images/2020/04/tamayomi-thumbnail.png",
+            "content": "Tamayomi",
+            "ep": "12/12"
+        },
+        {
+            "id": 2,
+            "img": "https://animehay.tv/uploads/images/2020/03/arp-backstage-pass-thumbnail.jpg",
+            "content": "ARP Backstage Pass",
+            "ep": "10/10"
+        },
+        {
+            "id": 3,
+            "img": "https://animehay.tv/uploads/images/2020/03/breakers-thumbnail.jpg",
+            "content": "Breakers",
+            "ep": "16/16"
+        },
+        {
+            "id": 4,
+            "img": "https://animehay.tv/uploads/images/2018/07/sword-art-online-alicization-thumbnail.jpg",
+            "content": "Sword Art Online: Alicization",
+            "ep": "24/24"
+        },
+        {
+            "id": 5,
+            "img": "https://animehay.tv/uploads/images/2020/07/boku-no-hero-academia-the-movie-2-heroes-rising-thumbnail.png",
+            "content": "Boku no Hero Academia the Movie 2: Heroes:Rising",
+            "ep": "3/3"
+        },
+        {
+            "id": 6,
+            "img": "https://animehay.tv/uploads/images/2018/04/gegege-no-kitarou-thumbnail.jpg",
+            "content": "GEGEGE NO KITAROU",
+            "ep": "97/97"
+        },
+        {
+            "id": 7,
+            "img": "https://animehay.tv/uploads/images/2020/04/listeners-thumbnail.jpg",
+            "content": "Listeners",
+            "ep": "12/12"
+        },
+        {
+            "id": 8,
+            "img": "https://animehay.tv/uploads/images/2020/01/a3-season-spring-thumbnail.jpg",
+            "content": "A3! Season Spring & Summer",
+            "ep": "12/12"
+        },
+        {
+            "id": 9,
+            "img": "https://animehay.tv/uploads/images/2020/04/shachou-battle-no-jikan-desu-thumbnail.jpg",
+            "content": "Shachou, Battle no Jikan Desu!",
+            "ep": "12/12"
+        },
+        {
+            "id": 10,
+            "img": "https://animehay.tv/uploads/images/2020/04/kitsutsuki-tanteidokoro-thumbnail.jpg",
+            "content": "Kitsutsuki Tanteidokoro",
+            "ep": "12/12"
+        },
+        {
+            "id": 11,
+            "img": "https://animehay.tv/uploads/images/2019/02/princess-connect-thumbnail.jpg",
+            "content": "Princess Connect!",
+            "ep": "13/13"
+        },
+        {
+            "id": 12,
+            "img": "https://animehay.tv/uploads/images/2019/10/keishichou-tokumubu-tokushu-kyouakuhan-taisakushitsu-dainanaka-tokunana-thumbnail.jpg",
+            "content": "Keishichou Tokumubu Tokushu Kyouakuhan Taisakushitsu Dainanaka: Tokunana",
+            "ep": "12/12"
+        },
+        {
+            "id": 13,
+            "img": "https://animehay.tv/uploads/images/2020/04/gleipnir-thumbnail.jpg",
+            "content": "Gleipnir",
+            "ep": "13/13"
+        },
+        {
+            "id": 14,
+            "img": "https://animehay.tv/uploads/images/2020/04/kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen-season-2-thumbnail.jpg",
+            "content": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen Season 2",
+            "ep": "12/12"
+        },
+        {
+            "id": 15,
+            "img": "https://animehay.tv/uploads/images/2020/03/plunderer-thumbnail.jpg",
+            "content": "Plunderer",
+            "ep": "24/24"
+        },
+        {
+            "id": 16,
+            "img": "https://animehay.tv/uploads/images/2020/05/toan-chuc-phap-su-4-thumbnail.jpg",
+            "content": "Toàn Chức Pháp Sư 4",
+            "ep": "12/12"
+        }
     ]
 
 }
